@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2076929-da4c-4b31-8cae-2372d3fd3aaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2ivHA1JQhdjcmCYUAkVotXbxYak" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.HeightOfTree">
+    <configuration name="CreateTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.classes.class1.CreateTree" />
+      <module name="CodeHelp_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstNegativeInEveryKWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.classes.class2.FirstNegativeInEveryKWindow" />
+      <module name="CodeHelp_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.classes.class2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeightOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.classes.class1.HeightOfTree" />
+      <module name="CodeHelp_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterleaveTwoHalvesOfQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.classes.class2.InterleaveTwoHalvesOfQueue" />
+      <module name="CodeHelp_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.classes.class2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTraversals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.classes.class1.TreeTraversals" />
+      <module name="CodeHelp_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeightOfTree" />
+        <item itemvalue="Application.TreeTraversals" />
+        <item itemvalue="Application.CreateTree" />
+        <item itemvalue="Application.FirstNegativeInEveryKWindow" />
+        <item itemvalue="Application.InterleaveTwoHalvesOfQueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2076929-da4c-4b31-8cae-2372d3fd3aaa" name="Default Changelist" comment="" />
+      <created>1720363983378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720363983378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="124" key="#xdebugger.evaluate" timestamp="1723203853668">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="426" y="107" key="#xdebugger.evaluate/0.25.1440.875@0.25.1440.875" timestamp="1720366160281" />
+    <state x="568" y="124" key="#xdebugger.evaluate/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723203853668" />
+    <state width="722" height="702" key="DebuggerActiveHint" timestamp="1723203814583">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="541" height="582" key="DebuggerActiveHint/0.25.1440.875@0.25.1440.875" timestamp="1722779440977" />
+    <state width="722" height="702" key="DebuggerActiveHint/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723203814583" />
+    <state width="1868" height="421" key="GridCell.Tab.0.bottom" timestamp="1727230040063">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1868" height="421" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1727230040063" />
+    <state width="1868" height="265" key="GridCell.Tab.0.bottom/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723204282428" />
+    <state width="1868" height="421" key="GridCell.Tab.0.center" timestamp="1727230040060">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1868" height="421" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1727230040060" />
+    <state width="1868" height="265" key="GridCell.Tab.0.center/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723204282427" />
+    <state width="1868" height="421" key="GridCell.Tab.0.left" timestamp="1727230040059">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1868" height="421" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1727230040059" />
+    <state width="1868" height="265" key="GridCell.Tab.0.left/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723204282426" />
+    <state width="1868" height="421" key="GridCell.Tab.0.right" timestamp="1727230040063">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1868" height="421" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1727230040063" />
+    <state width="1868" height="265" key="GridCell.Tab.0.right/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723204282427" />
+    <state width="1868" height="421" key="GridCell.Tab.1.bottom" timestamp="1727230040067">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1868" height="421" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1727230040067" />
+    <state width="1868" height="421" key="GridCell.Tab.1.bottom/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723204147668" />
+    <state width="1868" height="421" key="GridCell.Tab.1.center" timestamp="1727230040064">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1868" height="421" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1727230040064" />
+    <state width="1868" height="421" key="GridCell.Tab.1.center/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723204147661" />
+    <state width="1868" height="421" key="GridCell.Tab.1.left" timestamp="1727230040064">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1868" height="421" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1727230040064" />
+    <state width="1868" height="421" key="GridCell.Tab.1.left/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723204147658" />
+    <state width="1868" height="421" key="GridCell.Tab.1.right" timestamp="1727230040067">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1868" height="421" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1727230040067" />
+    <state width="1868" height="421" key="GridCell.Tab.1.right/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1723204147663" />
+    <state x="480" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1720806487490">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="480" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1920.1055/-1440.25.1440.875@0.25.1920.1055" timestamp="1720806487490" />
+    <state x="211" y="127" width="1017" height="670" key="find.popup" timestamp="1721673352514">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="211" y="127" width="1017" height="670" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1721673352514" />
+    <state x="301" y="25" width="838" height="1032" key="search.everywhere.popup" timestamp="1722794767522">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="301" y="25" width="838" height="1032" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1722794767522" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/LastOccuranceOfChar.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/LastOccuranceOfChar.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DivideAndConquer/classes/Class1/MergeSort.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DivideAndConquer/classes/Class1/MergeSort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/classes/class3/CheckPalindrome.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/classes/class3/CheckPalindrome.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/classes/class3/CheckPalindrome.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/classes/class3/CheckPalindrome.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/classes/class4/DetectCycleInLL.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/classes/class4/RemoveDuplicatesInSortedLL.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/classes/class4/SortZeroOneTwoLL.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/classes/class4/ReverseInKGroups.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class1/Basics.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class1/StackImplementation.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class1/StackImplementation.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class2/FindMiddleInStack.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class2/FindMiddleInStack.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class1/InsertAtBottomInStack.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class1/InsertAtBottomInStack.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class1/InsertAtBottomInStack.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class2/ReverseAStack.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class2/ReverseAStack.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class2/ValidParenthesis.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/classes/class2/ValidParenthesis.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78a69e1a-8ada-4032-9379-21556075f4c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2fzfJjjJZy2LkApXOR6hDs8OLFV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="LimitedTimeDeals.Services" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LimitedTimeDeals.Proxy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LimitedTimeDeals.Client.UserClass" />
+      <module name="EcommercePlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LimitedTimeDeals.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78a69e1a-8ada-4032-9379-21556075f4c5" name="Default Changelist" comment="" />
+      <created>1714808756805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714808756805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1714813750404">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="489" y="119" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1714813750404" />
+    <state x="443" y="300" width="553" height="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1714808997156">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="443" y="300" width="553" height="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.875@0.25.1440.875" timestamp="1714808997156" />
+    <state x="303" y="168" width="833" height="588" key="find.popup" timestamp="1714809259242">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="303" y="168" width="833" height="588" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1714809259242" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LimitedTimeDeals/Client/UserClass.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LimitedTimeDeals/Controllers/LimitedTimeDealController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LimitedTimeDeals/Services/Impl/LimitedTimeDealServiceImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

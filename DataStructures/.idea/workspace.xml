@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2badd354-cfb5-42aa-a160-b99aac243a3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eofdbMNYjf9TF7tKAFAd3kmBfp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/AlgoExpertProblems" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LinkedList.Sheet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/AlgoExpertProblems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DecodeMessage">
+    <configuration name="DecodeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeHelp.String.DecodeMessage" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeHelp.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeHelp.String.PalindromicSubstring" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeHelp.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveAdjacentDuplicatesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeHelp.String.RemoveAdjacentDuplicatesInString" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeHelp.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.sheet.TopView" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.sheet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LimitedTimeDeals.Client.UserClass" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LimitedTimeDeals.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DecodeMessage" />
+        <item itemvalue="Application.PalindromicSubstring" />
+        <item itemvalue="Application.RemoveAdjacentDuplicatesInString" />
+        <item itemvalue="Application.UserClass" />
+        <item itemvalue="Application.TopView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2badd354-cfb5-42aa-a160-b99aac243a3b" name="Default Changelist" comment="" />
+      <created>1594992955429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594992955429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720363894340">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="184" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1720363894340" />
+    <state x="489" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1717567943513">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="489" y="83" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1717567943513" />
+    <state width="481" height="546" key="DebuggerActiveHint" timestamp="1714814909149">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="481" height="546" key="DebuggerActiveHint/0.25.1440.875@0.25.1440.875" timestamp="1714814909149" />
+    <state width="1388" height="298" key="GridCell.Tab.0.bottom" timestamp="1720186009118">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1388" height="298" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1720186009118" />
+    <state width="1388" height="298" key="GridCell.Tab.0.bottom/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717955174765" />
+    <state width="1388" height="298" key="GridCell.Tab.0.center" timestamp="1720186009117">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1388" height="298" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1720186009117" />
+    <state width="1388" height="298" key="GridCell.Tab.0.center/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717955174764" />
+    <state width="1388" height="298" key="GridCell.Tab.0.left" timestamp="1720186009116">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1388" height="298" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1720186009116" />
+    <state width="1388" height="298" key="GridCell.Tab.0.left/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717955174762" />
+    <state width="1388" height="298" key="GridCell.Tab.0.right" timestamp="1720186009118">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1388" height="298" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1720186009118" />
+    <state width="1388" height="298" key="GridCell.Tab.0.right/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717955174764" />
+    <state width="1388" height="298" key="GridCell.Tab.1.bottom" timestamp="1720186009121">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1388" height="298" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1720186009121" />
+    <state width="1388" height="298" key="GridCell.Tab.1.bottom/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717955174768" />
+    <state width="1388" height="298" key="GridCell.Tab.1.center" timestamp="1720186009119">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1388" height="298" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1720186009119" />
+    <state width="1388" height="298" key="GridCell.Tab.1.center/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717955174766" />
+    <state width="1388" height="298" key="GridCell.Tab.1.left" timestamp="1720186009119">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1388" height="298" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1720186009119" />
+    <state width="1388" height="298" key="GridCell.Tab.1.left/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717955174766" />
+    <state width="1388" height="298" key="GridCell.Tab.1.right" timestamp="1720186009120">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1388" height="298" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1720186009120" />
+    <state width="1388" height="298" key="GridCell.Tab.1.right/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717955174767" />
+    <state x="-1340" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1717954768247">
+      <screen x="-1440" y="25" width="1440" height="875" />
+    </state>
+    <state x="-1340" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1920.1055/-1440.25.1440.875@-1440.25.1440.875" timestamp="1717954768247" />
+    <state x="302" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1714292966004">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="302" y="255" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1714292966004" />
+    <state x="0" y="97" key="new project wizard" timestamp="1720363695187">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="97" key="new project wizard/0.25.1440.875@0.25.1440.875" timestamp="1720363695187" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/ReverseLL.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Seperate0and1Array.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PlacementPreparationSeries/LinkedList/MergeTwoSortedList.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PlacementPreparationSeries/LinkedList/MergeTwoSortedList.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PlacementPreparationSeries/LinkedList/MergeTwoSortedList.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PlacementPreparationSeries/LinkedList/RemoveNthNodeFromBackOfLinkedList.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PlacementPreparationSeries/LinkedList/RemoveNthNodeFromBackOfLinkedList.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PlacementPreparationSeries/LinkedList/DetectACycleInLikedList.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/TournamentWinner.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/TournamentWinner.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/TournamentWinner.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/LinkedList/RemoveDuplicates.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/LinkedList/FindLoopNode.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Searching/BinarySearch.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Trees/BranchSums.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Trees/BranchSums.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Trees/NodeDepths.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Trees/NodeDepths.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Sorting/BubbleSort.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Sorting/BubbleSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Recursion/FibonacciSeries.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Sorting/InsertionSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Sorting/InsertionSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/LinkedList/SumOfLinkedLists.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Heaps/ContinousMedian.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Sorting/ThreeNumberSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Sorting/ThreeNumberSort.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Graph/DFS.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Graph/DFS.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Graph/DFS.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Graph/DFS.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/AllWrong.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FacebookPractice/Battleship.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/SpiralTraverse.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Strings/LongestPalindromeSubstring.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Strings/LongestPalindromeSubstring.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Strings/RemoveAllAdjacentDuplicates.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Strings/RemoveAllAdjacentDuplicates.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/ThreeNumberSum.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/FindIntersactionInArraysOfArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sample/Two/Microsoft.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sample/Two/Microsoft.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sample/Two/Microsoft.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sample/Two/GFG.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LowLevelDesign/ListItertor/ListSolution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LowLevelDesign/ListItertor/ListCollections.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LowLevelDesign/ListItertor/ListCollections.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Strings/GenerateDocument.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DPStriver/FibionacciSeries.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/SmallestDifference.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/LongestPeak.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/LongestPeak.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/LongestPeak.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AlgoExpertProblems/Arrays/LongestPeak.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Sheet/RotateArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Sheet/RotateArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Sheet/SquareArray.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Sheet/MiddleElement.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees/sheet/TopView.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees/sheet/TopView.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LimitedTimeDeals/Client/UserClass.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LimitedTimeDeals/Client/UserClass.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LimitedTimeDeals/Services/Impl/LimitedTimeDealServiceImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LimitedTimeDeals/Controllers/LimitedTimeDealController.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LimitedTimeDeals/Services/Impl/LimitedTimeDealServiceImpl.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LimitedTimeDeals/Modals/LimitedTimeDeal.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LimitedTimeDeals/DB/DealStorage.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LimitedTimeDeals/Response/Response.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CodeHelp/String/DecodeMessage.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
